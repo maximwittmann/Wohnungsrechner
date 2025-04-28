@@ -1,0 +1,12 @@
+C:\Sahin\Projekte\Wohnungsrechner\Wohnungsrechner\bin\Debug\Wohnungsrechner.exe
+C:\Sahin\Projekte\Wohnungsrechner\Wohnungsrechner\bin\Debug\Wohnungsrechner.pdb
+C:\Sahin\Projekte\Wohnungsrechner\Wohnungsrechner\obj\Debug\Wohnungsrechner.csproj.AssemblyReference.cache
+C:\Sahin\Projekte\Wohnungsrechner\Wohnungsrechner\obj\Debug\Wohnungsrechner.csproj.CoreCompileInputs.cache
+C:\Sahin\Projekte\Wohnungsrechner\Wohnungsrechner\obj\Debug\Wohnungsrechner.exe
+C:\Sahin\Projekte\Wohnungsrechner\Wohnungsrechner\obj\Debug\Wohnungsrechner.pdb
+D:\Sahin\Wohnungsrechner\Wohnungsrechner\bin\Debug\Wohnungsrechner.exe
+D:\Sahin\Wohnungsrechner\Wohnungsrechner\bin\Debug\Wohnungsrechner.pdb
+D:\Sahin\Wohnungsrechner\Wohnungsrechner\obj\Debug\Wohnungsrechner.csproj.AssemblyReference.cache
+D:\Sahin\Wohnungsrechner\Wohnungsrechner\obj\Debug\Wohnungsrechner.csproj.CoreCompileInputs.cache
+D:\Sahin\Wohnungsrechner\Wohnungsrechner\obj\Debug\Wohnungsrechner.exe
+D:\Sahin\Wohnungsrechner\Wohnungsrechner\obj\Debug\Wohnungsrechner.pdb
