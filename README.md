@@ -1,7 +1,7 @@
 ## 🏠 Wohnungsrechner
 ```markdown
 📝 Projektbeschreibung
-Eine Konsolen- und GUI-Anwendung in C#, in der ich mit OOP verschiedene Klassen, Objekte ect. erstelle und verwende.
+Eine Konsolen- und GUI-Anwendung in C#, in der ich mit der OOP verschiedene Klassen, Objekte und Methoden erstelle und verwende.
 
 🚀 Features
 - OOP: Erstellung von Objekten, Klassen und Methoden  
