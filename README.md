@@ -1,9 +1,5 @@
-
----
-
-## 📄 Wohnungsrechner – README.md  
+## 📄 Wohnungsrechner
 ```markdown
-# Wohnungsrechner
 
 ## 📝 Projektbeschreibung
 Eine Konsolen- und GUI-Anwendung in C#, die Wohnungs- und Mietkosten berechnet. Ideal für Vermieter und Mieter zur schnellen Kalkulation von Nebenkosten und Gesamtmiete. :contentReference[oaicite:1]{index=1}
