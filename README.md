@@ -9,6 +9,6 @@ Eine Konsolen- und GUI-Anwendung in C#, in der ich mit OOP verschiedene Klassen,
 - Einfache Windows-Forms-GUI  
 
 🛠️ Technologie
-C#
-.NET Framework (Windows Forms)
+- C#
+- .NET Framework (Windows Forms)
 
